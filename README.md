@@ -12,6 +12,7 @@
   <img alt="React" width="40" height="40" src="https://simpleicons.org/icons/react.svg" />
   <img alt="TailwindCSS" width="40" height="40" src="https://simpleicons.org/icons/tailwindcss.svg" />
   <img alt="PostgreSQL" width="40" height="40" src="https://simpleicons.org/icons/postgresql.svg" />
+  <img alt="Docker" width="40" height="40" src="https://simpleicons.org/icons/docker.svg" />
 </div>
 
 ---
