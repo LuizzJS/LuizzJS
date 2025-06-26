@@ -5,14 +5,15 @@
 ## I build with:
 
 <div>
-  <img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Spring Boot" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="TailwindCSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Java" width="40" height="40" src="https://cdn-icons-png.freepik.com/512/152/152760.png" />
+  <img alt="Node.js" width="40" height="40" src="https://simpleicons.org/icons/nodedotjs.svg" />
+  <img alt="JavaScript" width="40" height="40" src="https://simpleicons.org/icons/javascript.svg" />
+  <img alt="Spring Boot" width="40" height="40" src="https://simpleicons.org/icons/springboot.svg" />
+  <img alt="React" width="40" height="40" src="https://simpleicons.org/icons/react.svg" />
+  <img alt="TailwindCSS" width="40" height="40" src="https://simpleicons.org/icons/tailwindcss.svg" />
+  <img alt="PostgreSQL" width="40" height="40" src="https://simpleicons.org/icons/postgresql.svg" />
 </div>
+
 ---
 
 🚀 Coding | Innovating
