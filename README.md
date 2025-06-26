@@ -1,7 +1,5 @@
 # Olá, eu sou o Luiz! 👋
 
-![Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
-
 ## Sobre mim
 
 Sou um desenvolvedor web apaixonado por criar soluções elegantes e eficientes. Trabalho principalmente com **Java**, **Spring Boot**, **React**, **Node.js** e **PostgreSQL**.
@@ -42,11 +40,3 @@ Gosto de transformar ideias em código limpo, escalável e com boa experiência 
 ## 📊 GitHub Stats
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizzJS&show_icons=true&theme=radical)
-
----
-
-<div align="center">
-  <a href="https://github.com/LuizzJS">
-    <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizzJS&theme=radical" alt="GitHub Streak" />
-  </a>
-</div>
