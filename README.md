@@ -4,7 +4,7 @@
 
 ## I build with:
 
-<div>
+<div style="background-color: white;">
   <img alt="Java" width="40" height="40" src="https://cdn-icons-png.freepik.com/512/152/152760.png" />
   <img alt="Node.js" width="40" height="40" src="https://simpleicons.org/icons/nodedotjs.svg" />
   <img alt="JavaScript" width="40" height="40" src="https://simpleicons.org/icons/javascript.svg" />
