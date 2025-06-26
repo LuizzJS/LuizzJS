@@ -1,39 +1,29 @@
-# Olá, eu sou o Luiz! 👋
-
-## Sobre mim
-
-Sou um desenvolvedor web apaixonado por criar soluções elegantes e eficientes. Trabalho principalmente com **Java**, **Spring Boot**, **React**, **Node.js** e **PostgreSQL**.
-Gosto de transformar ideias em código limpo, escalável e com boa experiência para o usuário.
+# Hello, I'm Luiz! 👋
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## I build with:
 
 <div>
   <img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Spring Boot" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="TailwindCSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
+---
+
+🚀 Coding | Innovating
+🧩 Problem Solver | Creator | Automator
 
 ---
 
-## 🚀 Projetos Recentes
+## 📫 Contact
 
-- [Product Management API](https://github.com/LuizzJS/rest-api)  
-  REST API completa para gerenciamento de produtos com Spring Boot e PostgreSQL.
-
-- [React CRUD App](https://github.com/LuizzJS/crud-frontend)  
-  Interface moderna com React e Tailwind para manipulação dinâmica de dados.
-
----
-
-## 📫 Contato
-
-- 🐦 Twitter: [@luizbrn](https://x.com/luizbrn)
-- 📧 Email: luiz.ai@outlook.com
+- Twitter: [@luizbrn](https://x.com/luizbrn)  
+- Email: luiz.ai@outlook.com
 
 ---
 
