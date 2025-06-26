@@ -13,6 +13,8 @@
   <img alt="TailwindCSS" width="40" height="40" src="https://simpleicons.org/icons/tailwindcss.svg" />
   <img alt="PostgreSQL" width="40" height="40" src="https://simpleicons.org/icons/postgresql.svg" />
   <img alt="Docker" width="40" height="40" src="https://simpleicons.org/icons/docker.svg" />
+  <img alt="HTML" width="40" height="40" src="https://simpleicons.org/icons/html5.svg" />
+  <img alt="CSS" width="40" height="40" src="https://simpleicons.org/icons/css.svg" />
 </div>
 
 ---
